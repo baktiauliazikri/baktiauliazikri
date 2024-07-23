@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bakti Aulia Zikri</h1>
+<h1 align="center">Haii, I'm Bakti Aulia Zikri</h1>
 
 <p align="left">
 <a href="https://github.com/baktiauliazikri">
