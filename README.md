@@ -79,16 +79,6 @@
 
 ---
 
-### GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/baktiauliazikri">
-    <img src="https://github-profile-trophy.vercel.app/?username=baktiauliazikri&theme=algolia&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### Connect with Me
 
 <p align="left">
