@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%90%8B+I'm+Bakti+Aulia+Zikri;Passionate+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Bakti+Aulia+Zikri;Passionate+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,19 +10,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 **Currently:** Building cool software solutions & exploring modern tech stacks
-- 💻 **Passionate about:** Web Development, Mobile Apps & System Architecture
-- 🌱 **Learning:** Cloud Architecture, AI Integration & DevOps practices
-- 💬 **Ask me about:** JavaScript, Python, Web Development, and Tech trends
-- ⚡ **Fun Fact:** Turning coffee into clean code! ☕
+- **Currently:** Building cool software solutions & exploring modern tech stacks
+- **Passionate about:** Web Development, Mobile Apps & System Architecture
+- **Learning:** Cloud Architecture, AI Integration & DevOps practices
+- **Ask me about:** JavaScript, Python, Web Development, and Tech trends
+- **Fun Fact:** Turning coffee into clean code!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-#### 💻 Programming Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-#### 🌐 Frameworks & Libraries
+#### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Cloud Services
+#### Databases & Cloud Services
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-#### 🔧 Tools & Utilities
+#### Tools & Utilities
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/baktiauliazikri">
@@ -79,7 +79,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/baktiauliazikri">
@@ -89,7 +89,7 @@
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/bakti-aulia-zikri" target="_blank">
@@ -110,5 +110,6 @@
 </p>
 
 <p align="center">
-  <i>⭐️ Designed with ❤️ by Bakti Aulia Zikri</i>
+  <i> Designed with ❤️ by Bakti Aulia Zikri</i>
 </p>
+
